@@ -21,9 +21,13 @@ the max7219 chip to send the data.
 
 ## connections:
 pin 12 is connected to the din
+
 pin 11 is connected to the CLK
+
 pin 10 is connected to cs
+
 pin 0 is connected to TX from bluetooth
+
 pin 1 is connected to RX from bluetooth
 
 Yeffri J. Salazar
